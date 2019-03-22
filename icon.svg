@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="1000" height="1000" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <symbol id="hexagon" viewBox="0 0 20 30">
+    <polygon
+      fill-opacity="0.8"
+      stroke-width="1"
+      points="10,0 20,10 20,20 10,30 0,20 0,10 10,0"
+    />
+  </symbol>
+  <use
+    xlink:href="#hexagon"
+    x="20"
+    y="15"
+    width="20"
+    height="30"
+    fill="#1abc9c"
+  />
+  <use
+    xlink:href="#hexagon"
+    x="10"
+    y="35"
+    width="20"
+    height="30"
+    fill="#2ecc71"
+  />
+  <use
+    xlink:href="#hexagon"
+    x="20"
+    y="55"
+    width="20"
+    height="30"
+    fill="#3498db"
+  />
+  <use
+    xlink:href="#hexagon"
+    x="60"
+    y="15"
+    width="20"
+    height="30"
+    fill="#f39c12"
+  />
+  <use
+    xlink:href="#hexagon"
+    x="70"
+    y="35"
+    width="20"
+    height="30"
+    fill="#d35400"
+  />
+  <use
+    xlink:href="#hexagon"
+    x="60"
+    y="55"
+    width="20"
+    height="30"
+    fill="#c0392b"
+  />
+</svg>
